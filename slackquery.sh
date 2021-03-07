@@ -1,0 +1,1 @@
+curl -X POST --data-urlencode "payload={\"channel\": \"#logerror\", \"username\": \"Alert\", \"text\": \"Hello <@U01QE1T38NN> We found an error in you logfile.\", \"icon_emoji\": \":ghost:\"}" https://hooks.slack.com/services/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
